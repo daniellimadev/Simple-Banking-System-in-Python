@@ -42,3 +42,12 @@ Values ​​must be displayed using the format $ xxx.xx
 1900.95 = $ 1900.95
 
 ---
+### **CHALLENGE**
+
+We need to make our code more modularized, to do this we will create functions for existing operations: withdrawing, depositing and viewing history. Furthermore, for version 2 of our system we need to create two new roles: user (bank customer) and create current account (link with user).
+
+**General objective**
+
+Separate existing withdrawal, deposit and statement functions into functions. Create two new functions: register user (customer) and register bank account.
+
+---
